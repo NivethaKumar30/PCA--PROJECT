@@ -1,6 +1,6 @@
 # PCA--PROJECT
 
-**Image and Signal Processing Project**
+# **Image and Signal Processing Project**
 
 This project is designed to perform either image or signal processing on large datasets. It efficiently handles hundreds of small or tens of large images and CSV-based signal data. The primary goal is to demonstrate efficient processing using parallel execution, error handling, and progress tracking.
 
